@@ -6,42 +6,42 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "pergunta aleatoria?",
+        enunciado: "Como o desmatamento afeta a biodiversidade?",
         alternativas: [           
             {
-                texto: "Participando de campanhas de conscientização e educação sobre igualdade racial.",
-                afirmacao: "Você acredita que a conscientização e a educação são ferramentas essenciais para promover a igualdade racial e combater o racismo."
+                texto: "O desmatamento reduz o habitat natural de diversas espécies,levando à extinção de muitas delas.",
+                afirmacao: "A destruição de florestas altera o equilíbrio dos ecossistemas e afeta a vida animal e vegetal>"
             },
             {
-                texto:  "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
-                afirmacao: "Você considera a denúncia de discriminação e o suporte a políticas públicas inclusivas como métodos importantes para enfrentar o racismo."
+                texto:  "A fragmentação dos ecossistemas impede o fluxo genético entre populações de espécies,comprometendo a biodiversidade.",
+                afirmacao: "O desmatamento contribui diretamente para a perda de biodiversidade global."
             }
         ]
     },
     
     {
-        enunciado: "Como você acredita que podemos combater o racismo na sociedade?",
+        enunciado: "quais são os principais gases responsáveis pelo aquecimento global?",
         alternativas: [           
             {
-                texto: "Participando de campanhas de conscientização e educação sobre igualdade racial.",
-                afirmacao: "Você acredita que a conscientização e a educação são ferramentas essenciais para promover a igualdade racial e combater o racismo."
+                texto: "O dióxido de carbono (CO2) é um dos principais gases de efeito estufa que contribuem para o aquecimento global.",
+                afirmacao: "A emissão excessiva de gases de efeito estufa está acelerando as mudanças climáticas."
             },
             {
-                texto:  "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
-                afirmacao: "Você considera a denúncia de discriminação e o suporte a políticas públicas inclusivas como métodos importantes para enfrentar o racismo."
+                texto:  "o metano (CH4)também é um gás de efeito estufa significativo, sendo liberado principalmente pela agropecuária e decomposição de resíduos.",
+                afirmacao: "A queima de combustíveis fósseis é uma da smaiores fontes de dióxido de carbono na atmosfera."
             }
         ]
     },
     {
-        enunciado: "Como você acredita que podemos combater o racismo na sociedade?",
+        enunciado: "Quais são os benefícios das energias renováveis para o meio ambiente?",
         alternativas: [           
             {
-                texto: "Participando de campanhas de conscientização e educação sobre igualdade racial.",
-                afirmacao: "Você acredita que a conscientização e a educação são ferramentas essenciais para promover a igualdade racial e combater o racismo."
+                texto: "Energia renováveis, como  solar e eólica, reduzem a emissão de gases poluentes,ajudando a combater o aquecimento global.",
+                afirmacao: "O uso de energias renováveis contribuí para a diminuição da poluição do ar e da água."
             },
             {
-                texto:  "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
-                afirmacao: "Você considera a denúncia de discriminação e o suporte a políticas públicas inclusivas como métodos importantes para enfrentar o racismo."
+                texto:  "Fontes de energia renováveis são sustentáveis e ajudam a conservar os recursos naturais para as futuras gerações.",
+                afirmacao: "investir em energias limpas é essencial para mitigar os efeitos das mudanças climáticas."
             }
         ]
 
